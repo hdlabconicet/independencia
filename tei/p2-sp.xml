@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acta de la Independencia</title>
+                <author>Congreso de las Provincias Unidas en Sud-América</author>
+                <editor n="1">Romina De León</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <availability>
+                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> 
+                <bibl>
+                    <pubPlace>Buenos-Ayres</pubPlace>
+                    <publisher>Imprenta de Gandarilas y socios</publisher>      
+                    <date>1816</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<text>
+<body><div type="title"><head type="title">ACTA
+DE INDEPENDENCIA</head></div>
+
+<pb n="2" facs="acta_sp_ay_2.jpg"/><div type="page" n="2">
+<p>Nos los representantes de las <placeName ref="https://es.wikipedia.org/wiki/Provincias_Unidas_del_R%C3%ADo_de_la_Plata">Provincias Unidas en Sud América</placeName>, reunidos en congreso general, invocando al Eterno que preside al universo, en el nombre y por la autoridad de los pueblos que representamos, protextando al Cielo, a las naciones y hombres todos del globo la justicia que regla nuestros votos; declaramos solemnemente á la faz de la tierra, que es voluntad unánime é indubitable de estas Provincias romper los violentos vínculos que las ligaban a los <name type="entity">reyes de España</name>, recuperar los derechos de que fueron despojadas, é investirse del alto carácter de una nación libre e independiente del <persName>rey Fernando séptimo</persName>, sus sucesores y metrópoli. Quedando en consecuencia de hecho y de derecho con amplio y pleno poder para darse las formas que exija la justicia, é impere el cúmulo de sus actuales circunstancias. Todas y cada una de ellas así lo publican, declaran y ratifican, comprometiéndose por nuestro medio al cumplimiento y sostén de esta su voluntad baxo del seguro y garantía de sus vidas, haberes y fama. Comuníquese á quienes corresponda para su publicación; y en obsequio del respeto que se debe a las naciones, detállense en un manifiesto los gravísimos fundamentos impulsivos de esta solemne declaración. Dada en la Sala de sesiones; firmada de nuestra mano, sellada con el sello del Congreso y refrendada por nuestros diputados secretarios.
+
+<persName>Francisco Narciso de Laprida</persName>,
+Diputado por <placeName>S. Juan</placeName><!-- acá no estoy segura si lo marco como place o entity por el gobierno -->, presidente.<!-- podríamos usar algo así para etiquetar diputado, lo mismo en los que siguen? name role="politician" type="person" -->
+
+<persName>Mariano Boedo</persName>,
+Vice-presidente, diputado por Salta.
+
+<persName>Doctor Antonio Sáenz</persName>,
+Diputado por Buenos-Ayres.</p>
+</div>
+</body>
+</text>
+
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acta de la Independencia</title>
+                <author>Congreso de las Provincias Unidas en Sud-América</author>
+                <editor n="1">Romina De León</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <availability>
+                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> 
+                <bibl>
+                    <pubPlace>Buenos-Ayres</pubPlace>
+                    <publisher>Imprenta de Gandarilas y socios</publisher>      
+                    <date>1816</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<text>
+<body><div type="title"><head type="title">ACTA
+DE INDEPENDENCIA
+DECLARADA POR EL <ref target="https://es.wikipedia.org/wiki/Congreso_de_Tucum%C3%A1n">CONGRESO DE LAS PROVINCIAS UNIDAS
+EN SUD - AMERICA.</ref></head></div>
+
+<pb n="1" facs="acta_sp_ay_1.jpg"/><div type="page" n="1">
+<p>En la benemérita y muy digna <placeName ref="https://maps.app.goo.gl/a3pCmk26yAVb9ATD8">ciudad de san Miguel del Tucuman</placeName> á <date>nueve dias del mes de julio de mil ochocientos diez y seis</date>: terminada la <name type="event">sesion ordinaria</name> <!-- nome deja usar event -->, el <name type="entity">Congreso de las Provincias - Unidas</name> continuó sus anteriores discusiones sobre el grande, augusto y sagrado objeto de la independencia los pueblos que lo que lo forman. Era universal, constante y decidido el clamor del territorio entero por su emancipacion solemne del poder despótico de los <roleName>reyes de España</roleName>; los representantes sin embargo consagraron á tan arduo asunto toda la profundidad de sus talentos, la rectitud de sus intenciones é interes que demanda la sancion de la suerte suya, pueblos representados y posteridad. A su término fuéron preguntados ¿Si querian qué las <placeName ref="https://es.wikipedia.org/wiki/Provincias_Unidas_del_R%C3%ADo_de_la_Plata">Provincias de la Union</placeName> fuese una nacion libre é independiente de los reyes de España y su metrópoli? Aclamáron primeramente llenos del santo ardor de la justicia, y uno á uno reiteraron sucesivamente su unánime y espontaneo decidido voto por la independencia del pais, fixando-en su virtud la declaracion siguiente.</p>
+</div>
+</body>
+</text>
+
+</TEI>
