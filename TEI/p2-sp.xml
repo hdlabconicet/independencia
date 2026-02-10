@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acta de la Independencia</title>
+                <author>Congreso de las Provincias Unidas en Sud-América</author>
+                <editor n="RDL">Romina De León</editor>
+                <editor xml:id="GDR">Gimena del Rio Riande</editor>
+                <editor xml:id="GAC">Gabriel Alejandro Calarco</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <availability>
+                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> 
+                <bibl>
+                    <pubPlace>Buenos-Ayres</pubPlace>
+                    <publisher>Imprenta de Gandarillas y socios</publisher>      
+                    <date>1816</date>
+      
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<text>
+<body><div type="title"><head type="title">ACTA
+DE INDEPENDENCIA</head></div>
+
+</body>
+</text>
+
+</TEI>
