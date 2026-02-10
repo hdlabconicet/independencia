@@ -8,22 +8,22 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://gabrielcalarco.github.io
+url: https://hdlab.space
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /lazarillociegoscaminantes
+baseurl: /independencia
 # location of code, the full url to your github repository
-source-code: https://github.com/hdlab.space/plantilla-cb-esp
+source-code: https://github.com/hdlabconicet/independencia
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: El Lazarillo de ciegos caminantes:<br/>desde Buenos Aires hasta Lima 
+title: Declaración de Independencia de las Provincias Unidas del Sur
 # tagline, a short phrase that will appear throughout the site in the top banner
 # tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Edición digital del 'Lazarillo de ciegos caminantes', de Alonso Carrió de la Vandera, desarrollada por los y las estudiantes de la materia de Humanidades Digitales del Departamento de Historia de la Universidad Torcuato Di Tella."
+description: "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: colecciones; edición digital; 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
