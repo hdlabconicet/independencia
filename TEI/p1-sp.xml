@@ -7,7 +7,7 @@
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Acta de la Independencia</title>
+                <title xml:id="español">Acta de la Independencia</title>
                 <author>Congreso de las Provincias Unidas en Sud-América</author>
                 <editor xml:id="RDL">Romina De León</editor>
                 <editor xml:id="GDR">Gimena del Rio Riande</editor>
