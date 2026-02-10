@@ -6,11 +6,6 @@
 
             <h2 class="h4"><a href="{{ '/' | relative_url }}" class="text-white">{{ site.title }}</a></h2>
             <p class="text-white"><small>{{ site.description }}</small></p>
-                    <p class="text-white">
-            <small style="text-align: right;">
-                    <img src="{{ '/assets/img/logos-usal-hdlab.jpg' | relative_url }}" class="img-fluid" alt="Logos institucionales" >
-            </small>
-        </p>
             <nav>
                 <ul id="footer-nav" class="nav nav-pills ">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
