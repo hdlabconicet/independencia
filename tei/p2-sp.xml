@@ -20,7 +20,7 @@
             <sourceDesc> 
                 <bibl>
                     <pubPlace>Buenos-Ayres</pubPlace>
-                    <publisher>Imprenta de Gandarilas y socios</publisher>      
+                    <publisher>Imprenta de Gandarillas y socios</publisher>      
                     <date>1816</date>
                 </bibl>
             </sourceDesc>
@@ -31,16 +31,16 @@
 DE INDEPENDENCIA</head></div>
 
 <pb n="2" facs="acta_sp_ay_2.jpg"/><div type="page" n="2">
-<p>Nos los representantes de las <placeName ref="https://es.wikipedia.org/wiki/Provincias_Unidas_del_R%C3%ADo_de_la_Plata">Provincias Unidas en Sud América</placeName>, reunidos en congreso general, invocando al Eterno que preside al universo, en el nombre y por la autoridad de los pueblos que representamos, protextando al Cielo, a las naciones y hombres todos del globo la justicia que regla nuestros votos; declaramos solemnemente á la faz de la tierra, que es voluntad unánime é indubitable de estas Provincias romper los violentos vínculos que las ligaban a los <name type="entity">reyes de España</name>, recuperar los derechos de que fueron despojadas, é investirse del alto carácter de una nación libre e independiente del <persName>rey Fernando séptimo</persName>, sus sucesores y metrópoli. Quedando en consecuencia de hecho y de derecho con amplio y pleno poder para darse las formas que exija la justicia, é impere el cúmulo de sus actuales circunstancias. Todas y cada una de ellas así lo publican, declaran y ratifican, comprometiéndose por nuestro medio al cumplimiento y sostén de esta su voluntad baxo del seguro y garantía de sus vidas, haberes y fama. Comuníquese á quienes corresponda para su publicación; y en obsequio del respeto que se debe a las naciones, detállense en un manifiesto los gravísimos fundamentos impulsivos de esta solemne declaración. Dada en la Sala de sesiones; firmada de nuestra mano, sellada con el sello del Congreso y refrendada por nuestros diputados secretarios.
+<p>Nos los representantes de las <placeName key="provinciasunidas">Provincias Unidas en Sud América</placeName>, reunidos en congreso general, invocando al Eterno que preside al universo, en el nombre y por la autoridad de los pueblos que representamos, protextando al Cielo, a las naciones y hombres todos del globo la justicia que regla nuestros votos; declaramos solemnemente á la faz de la tierra, que es voluntad unánime é indubitable de estas Provincias romper los violentos vínculos que las ligaban a los reyes de España, recuperar los derechos de que fueron despojadas, é investirse del alto carácter de una nación libre e independiente del <persName key="fernandovii">rey Fernando séptimo</persName>, sus sucesores y metrópoli. Quedando en consecuencia de hecho y de derecho con amplio y pleno poder para darse las formas que exija la justicia, é impere el cúmulo de sus actuales circunstancias. Todas y cada una de ellas así lo publican, declaran y ratifican, comprometiéndose por nuestro medio al cumplimiento y sostén de esta su voluntad baxo del seguro y garantía de sus vidas, haberes y fama. Comuníquese á quienes corresponda para su publicación; y en obsequio del respeto que se debe a las naciones, detállense en un manifiesto los gravísimos fundamentos impulsivos de esta solemne declaración. Dada en la Sala de sesiones; firmada de nuestra mano, sellada con el sello del Congreso y refrendada por nuestros diputados secretarios.
 
-<persName>Francisco Narciso de Laprida</persName>,
-Diputado por <placeName>S. Juan</placeName><!-- acá no estoy segura si lo marco como place o entity por el gobierno -->, presidente.<!-- podríamos usar algo así para etiquetar diputado, lo mismo en los que siguen? name role="politician" type="person" -->
+<persName key="laprida">Francisco Narciso de Laprida</persName>,
+Diputado por <placeName key="sanjuan">S. Juan</placeName>
 
-<persName>Mariano Boedo</persName>,
-Vice-presidente, diputado por Salta.
+<persName key="boedo">Mariano Boedo</persName>,
+Vice-presidente, diputado por <placeName key="salta">Salta</placeName>.
 
-<persName>Doctor Antonio Sáenz</persName>,
-Diputado por Buenos-Ayres.</p>
+<persName key="saenz">Doctor Antonio Sáenz</persName>,
+Diputado por <placeName key="bsas">Buenos-Ayres</placeName>.</p>
 </div>
 </body>
 </text>
