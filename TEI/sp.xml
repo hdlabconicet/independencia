@@ -142,13 +142,13 @@ Diputado de <placeName key="bsas">Buenos-Ayres</placeName> — Secretario.</l>
 <head type="subtitle">FORMULA DE JURAMENTO QUE HAN DE PRESTAR TODOS LOS HABITANTES DE Las PROVINCIAS - UNIDAS DE
 SUD AMERICA.</head>
 
-<l>¿Jurais por Dios Nuestro Señor y esta señal de + promover y defender la libertad de las Provincias-Unidas en Sud América, y su independencia del Rey de España Fernando séptimo , sus sucesores y metrópoli y toda otra dominacion extrangera?</l>
-<!-- acá es tipo interrogatorio lo dejamos como l? -->
-<l>¿Jurais á Dios nuestro señor y prometeis á la patria el sostén de estos derechos hasta con la vida, haberes y fama?</l>
+<p>¿Jurais por Dios Nuestro Señor y esta señal de + promover y defender la libertad de las Provincias-Unidas en Sud América, y su independencia del Rey de España Fernando séptimo , sus sucesores y metrópoli y toda otra dominacion extrangera?</p>
 
-<l>Si juro.</l>
+<p>¿Jurais á Dios nuestro señor y prometeis á la patria el sostén de estos derechos hasta con la vida, haberes y fama?</p>
 
-<l>Si así lo hicieres Dios ós ayude , y si no él y la patria os hagan cargo.</l>
+<p>Si juro.</p>
+
+<p>Si así lo hicieres Dios ós ayude , y si no él y la patria os hagan cargo.</p>
 </div>
 </body>
 </text>
