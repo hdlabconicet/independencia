@@ -10,7 +10,10 @@ credits: true
 
 ## Sobre la edición
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+En este sitio encontrarán la publicación de una edición digital del Acta de la Declaración de la Independencia y sus traducciones parafrásticas a Aymará y Quichua. Se puede navegar en estas versiones interactivas y enriquecidas.
+
+Estas fueron desarrolladas por parte del equipo del HDLAB, la dra. Gimena del Rio, la prof. Romina De León y el dr. Gabriel Calarco, para el desarrollo del taller que tuvo como objetivo realizar una edición digital con el paradigma de minimal computing, en el marco del proyecto financiado por la [Society of Latin American Studies (SLAS)](https://www.slasuk.org/) entre el HDLAB y las Dras. Joanna Crow (Universidad de Bristol) y Patience Schell (Universidad de Aberdeen).
+
 
 **Título**
 

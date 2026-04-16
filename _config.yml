@@ -23,11 +23,11 @@ title: Declaración de Independencia de las Provincias Unidas del Sur
 # tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur."
+description: "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur y de las ediciones parafrásticas en Aymara y Quichua."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: colecciones; edición digital; 
+keywords: colecciones; edición digital; Independencia; Provincias Unidas del Sur; Aymara; Quichua
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: hdlab-CONICET
+author: HDLAB - CONICET
 
 ##########
 # COLLECTION SETTINGS
@@ -50,9 +50,9 @@ metadata: metadatos-coleccion
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-# organization-name: "HD LAB, IIBICRIT-CONICET"
-# organization-link: https://hdlab.space/
-# organization-logo-banner: /assets/icons/apple-touch-icon.png
+organization-name: "HD LAB, IIBICRIT-CONICET"
+organization-link: https://hdlab.space/
+organization-logo-banner: /assets/img/hdlab.jpg
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########

@@ -12,3 +12,8 @@ gem 'mini_magick'
 gem 'rake'
 
 gem 'webrick', '~> 1.7'
+
+gem 'sass-embedded', '~> 1.62'
+
+gem 'sassc'
+gem 'jekyll-sass-converter', '< 3.0'

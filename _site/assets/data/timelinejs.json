@@ -7,7 +7,7 @@
         },
         "text": {
           "headline": "Declaración de Independencia de las Provincias Unidas del Sur Timeline",
-          "text": "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur."
+          "text": "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur y de las ediciones parafrásticas en Aymara y Quichua."
         }
     },
     "events": [
@@ -37,11 +37,11 @@
         },
         "text": {
           "headline": "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara",
-          "text": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español"
+          "text": "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara"
         }
       },{
         "media": {
-          "url": "/independencia/objects/small/acta_sp_que_1.jpg",
+          "url": "/independencia/objects/small/acta_sp_ay_1.jpg",
           "caption": "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua",
           "link": "/independencia/items/quechua.html"
         },

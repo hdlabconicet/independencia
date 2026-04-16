@@ -97,9 +97,9 @@ bootswatch: spacelab
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
-text-color: "#191919"
+text-color: "#2b2b2b"
 link-color: "#0f5bbe"
-base-font-family: garamond
+base-font-family: Roboto, Helvetica, Arial, sans-serif
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
