@@ -7,7 +7,7 @@
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="prueba1">Acta de la Independencia</title>
+                <title xml:id="independencia">Acta de la Independencia</title>
                 <author>Congreso de las Provincias Unidas en Sud-América</author>
                 <editor xml:id="RDL">Romina De León</editor>
                 <editor xml:id="GDR">Gimena del Rio Riande</editor>
@@ -30,7 +30,9 @@
         </fileDesc>
     </teiHeader>
 <text>
-<body><div type="title"><head type="title">Título.</head></div>
+<body><div type="title"><head type="title">Acta de Independencia</head>
+<head type="subtitle">Declarada por el Congreso de las Provincias Unidas en Sud-América</head>
+</div>
 
 <pb n="1" facs="acta_sp_ay_1.jpg"/>
 <div type="page" n="1">
@@ -134,16 +136,16 @@ diputado por <placeName key="charcas">Charcas</placeName> — Secretario.</l>
 
 <l><persName key="paso">Juan José Paso</persName>,
 Diputado de <placeName key="bsas">Buenos-Ayres</placeName> — Secretario.</l>
-</div>
-<div type="subtitle"> <!-- acá se podría añadir una div para el cuestionario o dejamos todo el pb -->
-<head type="subtitle">FORMULA DE JURAMENTO QUE HAN DE PRESTAR TODOS LOS HABITANTES DE Las PROVINCIAS - UNIDAS DE
-SUD AMERICA.</head>
 
-<p>¿Jurais por Dios Nuestro Señor y esta señal de + promover y defender la libertad de las Provincias-Unidas en Sud América, y su independencia del Rey de España Fernando séptimo , sus sucesores y metrópoli y toda otra dominacion extrangera?</p>
+</div>
+<div type="title"> <!-- acá se podría añadir una div para el cuestionario o dejamos todo el pb -->
+<head type="title">FORMULA DE JURAMENTO QUE HAN DE PRESTAR TODOS LOS HABITANTES DE Las PROVINCIAS - UNIDAS DE SUD AMERICA.</head>
+
+<p>¿Jurais por Dios Nuestro Señor y esta señal de + promover y defender la libertad de las Provincias-Unidas en Sud América, y su independencia del Rey de España Fernando séptimo, sus sucesores y metrópoli y toda otra dominacion extrangera?</p>
 
 <p>¿Jurais á Dios nuestro señor y prometeis á la patria el sostén de estos derechos hasta con la vida, haberes y fama?</p>
 
-<p>Si juro.</p>
+<l>Si juro.</l>
 
 <p>Si así lo hicieres Dios ós ayude , y si no él y la patria os hagan cargo.</p>
 </div>
