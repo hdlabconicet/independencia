@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="independencia">Acta de la Independencia</title>
+                <author>Congreso de las Provincias Unidas en Sud-América</author>
+                <editor xml:id="RDL">Romina De León</editor>
+                <editor xml:id="GDR">Gimena del Rio Riande</editor>
+                <editor xml:id="GAC">Gabriel Alejandro Calarco</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <availability>
+                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> 
+                <bibl>
+                    <pubPlace>Buenos-Ayres</pubPlace>
+                    <publisher>Imprenta de Gandarillas y socios</publisher>      
+                    <date>1816</date>
+                    <note>En la primera página figura el sello del Archivo General de la Nación.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<text>
+<body><div type="title"><head type="title">Acta de Independencia</head>
+<head type="subtitle">Declarada por el Congreso de las Provincias Unidas en Sud-América</head>
+<head type="subtitle">VERSION PARAFRASTICA EN IDIOMA AYMARA.</head>
+</div>
+
+<pb n="1" facs="acta_sp_ay_1.jpg"/>
+<div type="page" n="1">
+
+<p>Asqui merecitna, ancha-asqui S. Miguel Tucumana hacha Marcana, llatunca ururu julio sata paxcin warancca quemsaccallecco pataca tunca soxtanmarna. Mahaxachata Provincianacna hacha Hamauttanacna Tantapa, nia sapuru arusjasiniñacpa tucuyasna, wasita Arusiña Utaru tantasisna, uca sinti hacha llupalchata naira aroxhata cunhamtixha aca marcanaca España Reanacata ttaccacctani, uc-hatwa ccalltapghi: Taqque aca oraqquenacna utgirinacawa wararisna cuhsca chuimampi, munañpampi aucca choxrichirinacna amparpata axllacctasiñascca waquisi sapghi; ucalaicoa Marcanacna Lantinacpaxha sinti haya musphampi unañchasna, llalliri oronacampi asqui luppisna, taqquetoqquero unatatasna cunhawa hiwasanacaru i qquhepanpirinacaru wasquis-sistoxhaucva unañchapghi. Nia tucuyañansca taqquechicparoa hisecttasi. ¿Munapxtati aca Mahaxachata Provincianacna maya nacion, sata, cancañapxha, i hupaquiquipa camachasisña cuhu España Reanacata i Españata hiticcata, qquhispita uñxhasiñapxha? Aca aroxaroja taqquechicpava nairaccata collana sansiriarumpi phoccata cutiasipghi. Munaptua sasna: vcatsti mainit mainitawa munañapxha hani paachasisna aca ttaccaccasitascca, uc-hamapa sapghi, i ucxharusti taqquechicparaquiva cauquipachataquisa ccahnaarustayatja ac-hama qquelecantapghi.</p></div>
+
+<pb n="2" facs="acta_sp_ay_2.jpg"/>
+<div type="page" n="2">
+<p>Nanaca Mahaxachata Provincianacna, Sud América satan, Lantinacpa hacha Tantaru ccotochasisna, Alaxpacha taqque Atipiruru hausasna cunhamtixha acapachana uñanoxsisquistoja, uc-hama taqque Marcanacna sutipampi; taqque atipañpampi, Apu Diosasaru hausasna, hayanquiri hacha Marcanacaru isttayasña i taqque Mundunquiri haqquenacaru aruxayasna: ccahnarua hichaja uñstaitana aca taqque Provincianacna munañapaja, España Recnacaru chámpampi ñachcatatasitascca hararasna ttacarpaitanva, naira pacha choxrichirinaesna aparata lliphipinsarua cut-tana, i hichasa Marcanacsaxha cuhtoqquenquiri hacha Nacionanacaru sasiniva, Fernando septimo Reata ttaccacctata, wawanacpata, hupxharu arquirinacpata i quiquipa Españata. Hichata cuhrirusti luratampi,  camachitanacampi Provincianacaxha Reavisa pacha atipañparna puri, cunhamañapsa í cun-hamtixha huccampi waquis-sistoxha uca Gobierno axllisiñataqui. Mainit manitava taqque Marcanaca uc-hama sé, uc-hama munapghi, uc-hama unañchapghi, nanaca lacanacsata viñaina phoccañataqui, waccaichañataqui hacañanacpampi, yaanacpampi i honrapampi. Quhitinacaru waquisi ucanacaru yatiaspa taqquetoqquero qquellqqueyasana isttayañpataqui i cuhtoqquenqniri Nocionanacna yatiñpataquisca cunalaicotexha, i cuna hacha chuimausta arunacsa phoccach-sisquistoja aca amtta ccah-narustatayañataquija maya qquel ca luraspa apayañataqui. Uc-hama uscutava Arusiña, Sala de sesiones sata Utna, quiquipa amparanacsampi qquelecantata, aca hacha Tantana sellopampi herrontata, i nanacanacna Eantimasi secretariosanacansti qquelccantataraqui.</p>
+
+<l><persName key="laprida">Francisco Narciso de Laprida</persName>,
+<placeName key="sjuan">S. Juan</placeName> marcana Lantipa, presidente
+(aca hacha Tantana hilarata).</l>
+
+<l><persName key="boedo">Mariano Boedo</persName>,
+Vice-presidente (arcasi hilarata).</l>
+
+<l><persName key="saenz">Antonio Saenz</persName>,
+<placeName key="bsas">Buenos-Ayres</placeName> marcana Lantipa</l>
+</div>
+
+<pb n="3" facs="acta_sp_ay_3.jpg"/>
+<div type="page" n="3">
+<l>Hamautta <persName key="darregueira">José Darregueira</persName>,
+<placeName key="bsas">Buenos-Ayres</placeName> marcana Lantipa.</l>
+
+<l>Fray <persName key="rodriguez">Cayetano José Rodriguez</persName>,
+<placeName key="bsas">Buenos-Ayres</placeName> marcana Lantipa.</l>
+
+<l>Hamautta <persName key="medrano">Pedro Medrano</persName>,
+<placeName key="bsas">Buenos-Ayres</placeName> marcana Lantipa.</l>
+
+<l>Hamautta <persName key="acevedo">Manuel Antonio Acevedo</persName>,
+<placeName key="catamarca">Catamarca</placeName> marcana Lantipa.</l>
+
+<l>Hamautta <persName key="gorriti">José Ignacio de Gorriti</persName>,
+<placeName key="salta">Salta</placeName> marcana Lontipa.</l>
+
+<l>Hamautia <persName key="pacheco">José Andres Pacheco de Melo</persName>
+<placeName key="chichas">Chichas</placeName> marcana Lantipa.</l>
+
+<l>Ham. <persName key="bustamante">Teodoro Sanchez de Bustamante</persName>,
+<placeName key="jujuy">Jujuy</placeName> marcana Lantipa.</l>
+
+<l><persName key="vulnez">Eduardo Perez Vulnez</persName>,
+<placeName key="cordoba">Córdova</placeName> marcana Lontipa.</l>
+
+<l><persName key="cruz">Tomas Godoy Cruz</persName>,
+<placeName key="mendoza">Mendoza</placeName> marcana Lantipa.</l>
+
+<l><persName key="araoz">Pedro Miguel Araoz</persName>,
+<placeName key="tucuman">Tucumana</placeName> hacha marcana Lantipa.</l>
+
+<l>Hamautta Estevan Agustin Gazcon,
+<placeName key="bsas">Buenos-Ayres</placeName> provinciana Lanlipa.</l>
+
+<l><persName key="uriarte">Pedro Francisco Uriarte</persName>,
+<placeName key="santiago">Santiago del Estero</placeName> marcana Lantipa</l>
+
+<l><persName key="gallo">Pedro Leon Gallo</persName>,
+<placeName key="santiago">Santiago del Estero</placeName> marcana Lantipa.</l>
+
+<l><persName key="ribera">Pedro Ignacio de Ribera</persName>,
+<placeName key="mizque">Mizque</placeName> marcana Lantipa.</l>
+
+<l>Hamautta <persName key="loria">Mariano Sanchez Loria</persName>,
+<placeName key="charcas">Charcas</placeName> marcana Lantipa.</l>
+
+<l>Hamautta <persName key="malavia">José Severo Malavia</persName>,
+<placeName key="charcas">Charcas</placeName> marcana Lantipa.</l>
+
+<l>Ham. <persName key="castrobarros">Pedro Ignacio de Castro Barros</persName>,
+<placeName key="rioja">Rioja</placeName> marcana Lantipa.</l>
+
+<l>Maestro <persName key="salguero">Gerónimo Salguero de Cabrera y Cabrera</persName>,
+<placeName key="cordoba">Córdova</placeName> marcana Lantipa.</l>
+
+<l>Hamautta <persName key="colombres">José Colombres</persName>,
+<placeName key="catamarca">Catamarca</placeName> marcana Lantipa.</l>
+
+<l>Hamautta <persName key="thames">José Ignacio Thames</persName>,
+<placeName key="tucuman">Tucumana</placeName> marcana Lantipa.</l>
+
+<l>Fray <persName key="smdeoro">Justo de Santa Maria de Oro</persName>,
+<placeName key="sjuan">San Juan</placeName> marcana Lantipa.</l>
+
+<l><persName key="cabrera">José Antonio Cabrera</persName>,
+<placeName key="cordoba">Córdova</placeName> marcana Lantipa.</l>
+
+</div>
+
+<pb n="4" facs="acta_sp_ay_4.jpg"/>
+<div type="page" n="4">
+
+<l>Hamautta <persName key="maza">Juan Agustin Maza</persName>,
+<placeName key="mendoza">Mendoza</placeName> marcana Lantipa.</l>
+
+<l><persName key="anchorena">Tomas Manuel Anchorena</persName>,
+<placeName key="bsas">Buenos-Ayres</placeName> marcana Lantipa,</l>
+
+<l><persName key="serrano">José Mariano Serrano</persName>,
+<placeName key="charcas">Charcas</placeName> marcana Lantipa Secretario
+(qquelecanaca waccaichiri).</l>
+
+<l><persName key="paso">Juan José Paso</persName>,
+<placeName key="bsas">Buenos-Ayres</placeName> marcana Lanti, Secretar,
+(qquelccanaca waccaichiri)</l>
+
+</div>
+<div type="title"> <!-- acá se podría añadir una div para el cuestionario o dejamos todo el pb -->
+<head type="title">Ac-HAMA DIOSNA SUTIPA HAITTANI TTAQQUE MARCAMASI HAQQUEÑACA ACA MAHAXACHATA PROVINCIANACNA, SUD AMERICASATA UTGIRINACA.</head>
+
+<p>¿Diosna khapacca sutipa hait-tati aca collana cruzna + unanchapalaico cunhama chuimamna luppiña atipta aca Mahaxachata Provincianacna sud Americna satna, taqque choxrichiriacsata qquhispiana: Fernando septimo España Reata ttaccacc-tasitascca, hani hupa maiampi Reesata uñttañattaqui, ni hupxaru arquirinacapsa, ni quiquipa España Marcpata amtañataqui, i ucatsti taqque haya Reanacata hivasa marsaru hutiri munirinacata defendeseñataqui?</p>
+
+<p>¿Diosna khapacca sutipa hait-tati, quisquipa utjaña Maresaru (patria sutini) acaustati aca hacha yanaca taqque chuimamampi haccamapampi, yaanacmampi, honramampi, qquhispiañataqui? Hallá Dios hait-tua.</p>
+
+<p>Uc-hama lurata ucaxa, Diosava yanapatma, ccarista ucasti hupaquiquiparaquiwa i marcasquiquiparaquiva mutuyaraquitpa.</p>
+</div>
+
+</body>
+</text>
+</TEI>

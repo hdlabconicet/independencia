@@ -98,7 +98,7 @@ Diputado de <placeName key="santiagodelestero">Santiago del Estero</placeName>.<
 Diputado de <placeName key="mizque">Mizque</placeName>.</l>
 
 <l>Dr. <persName key="loria">Mariano Sanchez Loria</persName>,
-Diputado por Charcas.</l>
+Diputado por <placeName key="charcas">Charcas</placeName>.</l>
 
 <l>Dr. <persName key="malavia">José Severo Malavia</persName>,
 Diputado por <placeName key="charcas">Charcas</placeName>.</l>
@@ -115,7 +115,7 @@ Diputado por <placeName key="catamarca">Catamarca</placeName>.</l>
 <l>Dr. <persName key="thames">José Ignacio Thames</persName>,
 Diputado por <placeName key="tucuman">Tucuman</placeName>.</l>
 
-<l>F. <persName key="oros">Justo de Santa Maria de Oro</persName>,
+<l>F. <persName key="smdeoro">Justo de Santa Maria de Oro</persName>,
 Diputado por <placeName key="sjuan">S. Juan</placeName>.</l>
 
 <l><persName key="cabrera">José Antonio Cabrera</persName>,
