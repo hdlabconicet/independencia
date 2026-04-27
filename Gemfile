@@ -17,3 +17,5 @@ gem 'sass-embedded', '~> 1.62'
 
 gem 'sassc'
 gem 'jekyll-sass-converter', '< 3.0'
+
+#gem 'wdm', '>= 0.1.0' if Gem.win_platform? si tarda en cargar en local descomentar
