@@ -15,9 +15,8 @@ En este sitio encontrarán la publicación de una edición digital del Acta de l
 Estas fueron desarrolladas por parte del equipo del HDLAB, la dra. Gimena del Rio, la prof. Romina De León y el dr. Gabriel Calarco, para el desarrollo del taller que tuvo como objetivo realizar una edición digital con el paradigma de minimal computing, en el marco del proyecto financiado por la [Society of Latin American Studies (SLAS)](https://www.slasuk.org/) entre el HDLAB y las Dras. Joanna Crow (Universidad de Bristol) y Patience Schell (Universidad de Aberdeen).
 
 
-**Título**
+**Fuentes digitalizadas:**
 
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
+*Acta de la declaración de la Independencia, sesiones del Congreso. Archivo General de la Nación. Documentos Escritos. Tesoro.*<br/>
+*Acta de Independencia en quichua. Archivo General de la Nación. Documentos Escritos. Sala VII. Legajo 2471.*<br/>
+*Acta de Indepencia en aymará. Archivo General de la Nación. Documentos Escritos. Sala VII. Legajo 2668.*<br/>
